@@ -1,4 +1,5 @@
-#Consumer Complaint Categorization using NLP
+Consumer Complaint Categorization using NLP
+
 This project is about analyzing and categorizing real-world consumer complaints using Natural Language Processing (NLP). The goal was to classify each complaint into its corresponding product category based on the text of the complaint. It's built using Python and popular libraries like Pandas, Scikit-learn, and Matplotlib.
 
 About the Dataset
